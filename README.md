@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Arman
 
-<!--
-**ArmanSel/armansel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Swiss-based developer with an EFZ in Applikationsentwicklung, currently working in system administration and now diving back into the world of full-stack development.
 
-Here are some ideas to get you started:
+💻 Currently learning: React, Node.js, Express  
+🚀 Goal: Build a strong GitHub portfolio with practical full-stack projects  
+🎯 Mission: Land a role at a SWE company  
+📍 Based in Zürich, Switzerland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech I'm Working With Right Now
+
+- JavaScript (ES6+)
+- React.js & Next.js
+- Node.js & Express
+- Git & GitHub
+- Docker (learning!)
